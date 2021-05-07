@@ -2,6 +2,8 @@
 
 ## Overview
 This is a framework that enables QA automation for teams using pytest tests that wish to report their results to Testrail. Tests can be placed in prod_tests with the designated naming converntion to ensure test results are reported ot the correct Testrail case. The server is controlled with testrunner.sh. I have redacted the credentials for the Testrail API.
+<br><br>
+This was originally made to run Chrome selenium tests headless in a container. 
 
 ## Organization
 
